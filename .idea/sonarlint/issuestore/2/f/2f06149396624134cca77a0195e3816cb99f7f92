@@ -1,0 +1,11 @@
+
+a
+java:S1172"?Remove these unused method parameters "start", "end", "period".(·™ñöûÿÿÿÿ8Ö‹©Öè1
+]	java:S125"<This block of commented-out lines of code should be removed.(·ÔÅèùÿÿÿÿ8×‹©Öè1
+G	java:S106!"+Replace this use of System.out by a logger.(Á©ô8Ø‹©Öè1
+\
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8Ø‹©Öè1
+V
+java:S1128"9Remove this unused import 'java.time.format.FormatStyle'.(óóÿ½8Ø‹©Öè1
+J
+java:S1144$"-Remove this unused private "modifyMe" method.(°âéÓ8Ø‹©Öè1

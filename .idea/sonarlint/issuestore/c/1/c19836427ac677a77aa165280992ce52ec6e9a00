@@ -1,0 +1,17 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(ÇĞı”øÿÿÿÿ8äñëòé1
+>
+java:S1116"Remove this empty statement.(ÇĞı”øÿÿÿÿ8åñëòé1
+L	java:S106"+Replace this use of System.out by a logger.(Îß…şÿÿÿÿ8åñëòé1
+x
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(Îß…şÿÿÿÿ8åñëòé1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8åñëòé1
+S
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8åñëòé1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8æñëòé1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8æñëòé1
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8æñëòé1

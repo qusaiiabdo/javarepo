@@ -1,0 +1,8 @@
+
+\
+java:S2259"AA "NullPointerException" could be thrown; "obj" is nullable here.(•Ðìõÿÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(¤ËŽŠ
+@	java:S106"+Replace this use of System.out by a logger.(—¿Ëí
+P
+java:S2209"5Change this instance-reference to a static reference.(•Ðìõÿÿÿÿÿ

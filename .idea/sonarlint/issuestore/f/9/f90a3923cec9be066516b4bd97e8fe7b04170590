@@ -1,0 +1,18 @@
+
+ž
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ðæÆó8“÷Õºæ1
+S
+java:S1854"6Remove this useless assignment to local variable "c3".(¬‘Øö8•÷Õºæ1
+S
+java:S1854"6Remove this useless assignment to local variable "c2".(äâ»Â8•÷Õºæ1
+S
+java:S1854
+"6Remove this useless assignment to local variable "c1".(øŠëŽ8•÷Õºæ1
+D
+java:S1481
+"'Remove this unused "c1" local variable.(øŠëŽ8–÷Õºæ1
+D
+java:S1481"'Remove this unused "c2" local variable.(äâ»Â8—÷Õºæ1
+D
+java:S1481"'Remove this unused "c3" local variable.(¬‘Øö8—÷Õºæ1
+L	java:S106"+Replace this use of System.out by a logger.(Ž³ð¸ûÿÿÿÿ8—÷Õºæ1

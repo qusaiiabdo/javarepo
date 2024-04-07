@@ -1,0 +1,7 @@
+
+{
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(±ëÚµþÿÿÿÿ8½†«‘â1
+W
+java:S1612";Replace this lambda with method reference 'Animal::CanHop'.(³Õ¤8ÿ‘¯‘â1
+L	java:S106"+Replace this use of System.out by a logger.(þØ©ÿþÿÿÿÿ8È†«‘â1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8”¸«‘â1
